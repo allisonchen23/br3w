@@ -1,5 +1,7 @@
 # BR3W
 BR3W is a smart coffee machine that bridges customizability and convenience.
+This is a project led by the wonderful Ashvin Nagarajan and Bryan Pan through UCLA Creative Labs in the Fall of 2019. 
+I served as a software developer focusing on developing the front end with React Native as well as compiling the backend components of Arduino code together.
 
 ## Prerequisites
 Run these commands to edit and observe **BR3W** software
